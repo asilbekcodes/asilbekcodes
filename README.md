@@ -4,9 +4,8 @@
 
 ___<h1 align="center"> Technology && languages </h1>___
 
-<img src="./img/file_type_html_icon_130541.png"> 
-<img src="./img/file_type_css_icon_130661.png">
-<img src="./img/file_type_js_official_icon_130509.png">
+<img src="./img/file_type_html_icon_130541.png"><img src="./img/file_type_css_icon_130661.png"> <img src="./img/file_type_js_official_icon_130509.png">
+
 
 
 <!---
