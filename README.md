@@ -1,8 +1,7 @@
-<h1> Hi, I’m Asilbek 👋</h1>
-
+# ___Hi, I’m Asilbek___ 👋
 ---
 
-# ___Technology && languages___
+## ___Technology && languages___
 
 <div>
     <img src="./img/file_type_html_icon_130541.png" title="html5">
