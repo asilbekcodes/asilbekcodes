@@ -2,13 +2,23 @@
 
 ---
 
-___<h1 align="center"> Technology && languages </h1>___
+# ___Technology && languages___
 
+<div>
+    <img src="./img/file_type_html_icon_130541.png" title="html5">
+    <img src="./img/file_type_css_icon_130661.png" title="css" >
+    <img src="./img/file_type_js_official_icon_130509.png" title="javascript">
+</div>
 
-<div align="center">
-    <img src="./img/file_type_html_icon_130541.png">
-    <img src="./img/file_type_css_icon_130661.png">
-    <img src="./img/file_type_js_official_icon_130509.png">
+---
+
+##  ___Frameworks && Library___
+
+<div>
+    <img src="">
+    <img src="">
+    <img src="">
+    <img src="">
 </div>
 
 
