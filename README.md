@@ -2,12 +2,15 @@
 
 
 
-___<h1 align="center"> Technology && languages </h1>___
+<!-- ___<h1 align="center"> Technology && languages </h1>___ -->
+# ___Technologies && Languages___
+---
 
-
-
-
-<img align="center" src="./img/file_type_html_icon_130541.png"> <img align="center"  src="./img/file_type_css_icon_130661.png"> <img align="center" src="./img/file_type_js_official_icon_130509.png">
+<div align="center">
+    <img src="./img/file_type_html_icon_130541.png">
+    <img src="./img/file_type_css_icon_130661.png">
+    <img src="./img/file_type_js_official_icon_130509.png">
+</div>
 
 
 
