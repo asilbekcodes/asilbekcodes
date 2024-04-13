@@ -1,11 +1,10 @@
 <h1> Hi, I’m Asilbek 👋</h1>
 ---
 
-<!-- ___<h1 align="center"> Technology && languages </h1>___ -->
-<!-- # ___Technologies && Languages___ -->
+___<h1 align="center"> Technology && languages </h1>___
+
 
 <div align="center">
-    ___<h1>Technologies && Languages</h1>___
     <img src="./img/file_type_html_icon_130541.png">
     <img src="./img/file_type_css_icon_130661.png">
     <img src="./img/file_type_js_official_icon_130509.png">
