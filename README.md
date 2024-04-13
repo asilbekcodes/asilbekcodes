@@ -1,6 +1,5 @@
 # ___Hi, I’m Asilbek___ 👋
 ---
-
 ## ___Technology && languages___
 
 <div>
