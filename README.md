@@ -1,9 +1,12 @@
-<h1 align="center">Hi, I’m ___<h1>Asilbek</h1>___ 👋</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+<h1> Hi, I’m Asilbek 👋</h1>
+
+
+
+___<h1 align="center"> Technology && languages </h1>___
+
+<img src="./img/file_type_html_icon_130541.png"> 
+<img src="./img/file_type_css_icon_130661.png">
+<img src="./img/file_type_js_official_icon_130509.png">
 
 
 <!---
