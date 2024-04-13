@@ -21,6 +21,16 @@
     <img src="./img/file_type_tailwind_icon_130128.png" title="Tailwind css">
 </div>
 
+---
+
+##  ___Frameworks && Library___
+
+<div>
+    <img src="./img/github_alt_macos_bigsur_icon_190138.png" title="github">
+    <img src="./img/git_scm_logo_icon_170096.png" title="git">
+    <img src="./img/figma_logo_icon_170157.png" title="figma">
+</div>
+
 
 
 <!---
