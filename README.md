@@ -31,52 +31,52 @@
 
 
 <div class="skills-bar">
-        <li>
-            <div class="bar-text">
-                <p>Html/Css</p>
-                <p>85%</p>
-            </div>
-            <span class="bar ">
-                <span class="html-css" id="html-css"></span>
-            </span>
-        </li>
-        <li>
-            <div class="bar-text">
-                <p>Bootstrap</p>
-                <p>80%</p>
-            </div>
-            <span class="bar ">
-                <span class="html-css" id="bootstrap"></span>
-            </span>
-        </li>
-        <li>
-            <div class="bar-text">
-                <p>Javascript for WEb</p>
-                <p>70%</p>
-            </div>
-            <span class="bar ">
-                <span class="html-css" id="js"></span>
-            </span>
-        </li>
-        <li>
-            <div class="bar-text">
-                <p>Vue JS</p>
-                <p>75%</p>
-            </div>
-            <span class="bar ">
-                <span class="html-css" id="vue"></span>
-            </span>
-        </li>
-        <li>
-            <div class="bar-text">
-                <p>Node JS</p>
-                <p>60%</p>
-            </div>
-            <span class="bar ">
-                <span class="html-css" id="node"></span>
-            </span>
-        </li>
-    </div>
+    <li>
+        <div class="bar-text">
+            <p>Html/Css</p>
+            <p>85%</p>
+        </div>
+        <span class="bar ">
+            <span class="html-css" id="html-css"></span>
+        </span>
+    </li>
+    <li>
+        <div class="bar-text">
+            <p>Bootstrap</p>
+            <p>80%</p>
+        </div>
+        <span class="bar ">
+            <span class="html-css" id="bootstrap"></span>
+        </span>
+    </li>
+    <li>
+        <div class="bar-text">
+            <p>Javascript for WEb</p>
+            <p>70%</p>
+        </div>
+        <span class="bar ">
+            <span class="html-css" id="js"></span>
+        </span>
+    </li>
+    <li>
+        <div class="bar-text">
+            <p>Vue JS</p>
+            <p>75%</p>
+        </div>
+        <span class="bar ">
+            <span class="html-css" id="vue"></span>
+        </span>
+    </li>
+    <li>
+        <div class="bar-text">
+            <p>Node JS</p>
+            <p>60%</p>
+        </div>
+        <span class="bar ">
+            <span class="html-css" id="node"></span>
+        </span>
+    </li>
+</div>
 
 
 <!---
