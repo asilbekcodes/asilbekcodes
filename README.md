@@ -31,5 +31,5 @@
 
 ---
 
-# Contributions Calendar
-<img src="snake.svg">
+<!-- # Contributions Calendar
+<img src="snake.svg"> -->
