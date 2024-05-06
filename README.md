@@ -28,8 +28,3 @@
     <img src="./img/git_scm_logo_icon_170096.png" title="git">
     <img src="./img/figma_logo_icon_170157.png" title="figma">
 </div>
-
----
-
-<!-- # Contributions Calendar
-<img src="snake.svg"> -->
