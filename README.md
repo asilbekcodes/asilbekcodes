@@ -1,5 +1,7 @@
-# ___Hi, I’m Asilbek___ 👋
----
+<!-- <img src="./svg/asilbek.svg"> -->
+
+<!-- # ___Hi, I’m Asilbek___ 👋 -->
+<!-- ---
 ## ___Technology && languages___
 
 <div>
@@ -27,4 +29,21 @@
     <img src="./img/github_alt_macos_bigsur_icon_190138.png" title="github">
     <img src="./img/git_scm_logo_icon_170096.png" title="git">
     <img src="./img/figma_logo_icon_170157.png" title="figma">
+</div> -->
+
+
+
+
+
+<div align=center>
+
+ <img src="./svg/asilbek.svg">
+
+ ---
+
+ # Hi there, I'm [***Asilbek***](https://t.me/aslbek_07) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
+
+
+
+
 </div>
