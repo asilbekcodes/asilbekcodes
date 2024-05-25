@@ -43,7 +43,12 @@
 
  # Hi there, I'm [***Asilbek***](https://t.me/aslbek_07) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
 
+ ## ___`How to contact me:`___
 
+ [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_07) 
+ [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_aslbek_07)
+ [![gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](https://asilbeksuvonov43@gmail.com)
+ [![facebook](https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aslbek07)
 
 
 </div>
