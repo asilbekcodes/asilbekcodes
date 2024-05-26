@@ -57,6 +57,9 @@
  ___<h2><b>⚡️Technologies & Languages :</b></h2>___ 
  ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom)
 
+ <br>
 
+ ___<h2><b>🚀 Frameworks & Library :</b></h2>___ 
+ ![My Skills](https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma)
 
 </div>
