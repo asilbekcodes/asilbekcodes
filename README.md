@@ -45,35 +45,26 @@
 
  <br>
 
- ## ___`How to contact me:`___
-
- <a href="https://t.me/aslbek_07" target="_blank"><img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white,https://t.me/aslbek_07">
- <a href="https://www.instagram.com/1_aslbek_07" target="_blank"><img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white">
- <a href="https://asilbeksuvonov43@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white">
- <a href="https://www.facebook.com/aslbek07" target="_blank"><img src="https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white">
-
-
+ ## ___`How to contact me:`___<br><br><a href="https://t.me/aslbek_07" target="_blank"><img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white,https://t.me/aslbek_07"><a href="https://www.instagram.com/1_aslbek_07" target="_blank"><img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white"><a href="https://asilbeksuvonov43@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white"><a href="https://www.facebook.com/aslbek07" target="_blank"><img src="https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white">
  <!-- 
  [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_07)  -->
  <!-- [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_aslbek_07) -->
  <!-- [![gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](https://asilbeksuvonov43@gmail.com) -->
  <!-- [![facebook](https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aslbek07) -->
 
- <br>
+ <!-- <br> -->
  
- ---
-
- <div>
  
- <h2><b>⚡️Technologies & Languages :</b></h2>
-
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom)
-
- <div>
+ ___<h2><b>⚡️Technologies & Languages :</b></h2>___<img src="https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom">
+ 
+ 
+ <!-- ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom) -->
 
  <br>
 
- ___<h2><b>🚀 Frameworks & Library :</b></h2>___ 
- ![My Skills](https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma)
+ ___<h2><b>🚀 Frameworks & Library :</b></h2>___<img src="https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma"> 
+ 
+ 
+ <!-- ![My Skills](https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma) -->
 
 </div>
