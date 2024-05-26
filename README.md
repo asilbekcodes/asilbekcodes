@@ -41,7 +41,9 @@
 
  ---
 
- # Hi there, I'm [***Asilbek***](https://t.me/aslbek_07) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
+ # Hi there, I'm [***Asilbek***](https://t.me/aslbek_07) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> 
+
+ <br>
 
  ## ___`How to contact me:`___
 
@@ -49,6 +51,12 @@
  [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_aslbek_07)
  [![gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](https://asilbeksuvonov43@gmail.com)
  [![facebook](https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aslbek07)
+
+ <br>
+ 
+ ___<h2><b>⚡️Technologies & Languages :</b></h2>___ 
+ ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom)
+
 
 
 </div>
