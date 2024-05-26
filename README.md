@@ -54,8 +54,16 @@
 
  <br>
  
- ___<h2><b>⚡️Technologies & Languages :</b></h2>___ 
- ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom)
+ ---
+
+ <div>
+  ___<h2><b>⚡️Technologies & Languages :</b></h2>___ 
+
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom)
+  
+ <div>
+
+ ---
 
  <br>
 
