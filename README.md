@@ -45,7 +45,11 @@
 
  <br>
 
- ## ___`How to contact me:`___<br><br><a href="https://t.me/aslbek_07"><img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white,https://t.me/aslbek_07"><a href="https://www.instagram.com/1_aslbek_07" ><img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white"><a href="https://asilbeksuvonov43@gmail.com" ><img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white"><a href="https://www.facebook.com/aslbek07"><img src="https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white">
+ ## ___`How to contact me:`___<br><br>
+ <a href="https://t.me/aslbek_07"><img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white,https://t.me/aslbek_07">
+ <a href="https://www.instagram.com/1_aslbek_07" ><img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white">
+ <a href="https://asilbeksuvonov43@gmail.com" ><img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white">
+ <a href="https://www.facebook.com/aslbek07"><img src="https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white">
 
  <!-- 
  [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_07)  -->
