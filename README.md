@@ -38,7 +38,7 @@
 
 <div align=center>
 
- <img src="./svg/asilbek.svg">
+ <!-- <img src="./svg/asilbek.svg"> -->
 
  ---
 
