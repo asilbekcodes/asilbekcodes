@@ -60,12 +60,15 @@
  
   <!-- <img src="https://readme-typing-svg.demolab.com/?lines=How%20to%20contact%20me:&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=30"/> -->
 
- ## ___How to contact me:___<br>
+ <!-- ## ___How to contact me:___<br> -->
  <!-- <a href="https://t.me/aslbek_07"><img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white,https://t.me/aslbek_07">
  <a href="https://www.instagram.com/1_aslbek_07" ><img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white">
  <a href="https://asilbeksuvonov43@gmail.com" ><img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white">
  <a href="https://www.facebook.com/aslbek07"><img src="https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white"> -->
 
+ ___<h2>💬 Let's Connect 💬</h2>___
+
+ ___👇 Click the badges below to connect 👇___
  
  [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_07) 
  [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_aslbek_07)
@@ -75,7 +78,7 @@
  <br>
  
  
- ___<h2><b>⚡️Technologies & Languages :</b></h2>___
+ ___<h2><b>⚡️Technologies & Languages ⚡️</b></h2>___
  <!-- <img src="https://readme-typing-svg.demolab.com/?lines=⚡️%20Technologies%20and%20Languages:&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=30"/> -->
  <img src="https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom">
  
@@ -84,7 +87,7 @@
 
  <br>
 
- ___<h2><b>🚀 Frameworks & Library :</b></h2>___
+ ___<h2><b>🚀 Frameworks & Library🚀 </b></h2>___
  
  <!-- <img src="https://readme-typing-svg.demolab.com/?lines=🚀%20Frameworks%20and%20Library:&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=30"/> -->
  <img src="https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma"> 
