@@ -43,7 +43,12 @@
  <!-- --- -->
 
  <!-- # ___Hi there, I'm___ [***Asilbek***](https://t.me/aslbek_07) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">  -->
- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Asilbek&font=Fira%20Code&center=true&width=450&height=45&color=fff53a&vCenter=true&pause=1000&size=35"/> 
+
+
+ <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Asilbek&font=Fira%20Code&center=true&width=450&height=45&color=fff53a&vCenter=true&pause=1000&size=35"/>  -->
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&&color=fff53a&lines=Hi+There!+👋;+I'm+Asilbek!;Frontend+Developer" />
+
+
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> -->
 
 
