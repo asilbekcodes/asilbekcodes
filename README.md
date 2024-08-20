@@ -96,7 +96,7 @@
  
  <!-- ![My Skills](https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma) -->
  
- <img alt="line gify" width="100%" src="./line-neon.gif" /> 
+ <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> 
 
  <img src="./gif/Skills_Animation_Dark.gif">
 
