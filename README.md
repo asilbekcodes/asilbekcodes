@@ -96,11 +96,13 @@
  <img src="https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma"> 
  
  <br>
+ <br>
  
  <!-- ![My Skills](https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma) -->
  
  <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> 
 
+ <br>
  <br>
 
  <img width="100%" src="./gif/Skills_Animation_Dark.gif">
