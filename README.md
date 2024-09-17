@@ -71,8 +71,8 @@
 
  ___👇 Click the badges below to connect 👇___
  
- [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_07) 
- [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_aslbek_07)
+ [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_codes) 
+ [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aslbek_codes)
  [![gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](https://asilbeksuvonov43@gmail.com)
  [![facebook](https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aslbek07)
 
