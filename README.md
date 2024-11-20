@@ -105,6 +105,6 @@
  <br>
  <br>
 
- <img width="100%" src="./gif/Skills_Animation_Dark.gif">
+ <!-- <img width="100%" src="./gif/Skills_Animation_Dark.gif"> -->
 
 </div>
