@@ -52,7 +52,7 @@
  <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Asilbek&font=Fira%20Code&center=true&width=450&height=45&color=fff53a&vCenter=true&pause=1000&size=35"/>  -->
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&&color=fff53a&lines=Hi+There!+👋;+I'm+Asilbek!;Frontend+Developer" />
 
- <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> 
+ <!-- <img alt="line gify" width="100%" src="./gif/line-neon.gif" />  -->
 
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> -->
 
@@ -68,9 +68,9 @@
  <a href="https://asilbeksuvonov43@gmail.com" ><img src="https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white">
  <a href="https://www.facebook.com/aslbek07"><img src="https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white"> -->
 
- ___<h2>💬 Let's Connect 💬</h2>___
+<!-- ___<h2>💬 Let's Connect 💬</h2>___
 
- ___👇 Click the badges below to connect 👇___
+ ___👇 Click the badges below to connect 👇___ -->
  
  [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_codes) 
  [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aslbek_codes)
@@ -79,33 +79,39 @@
 
  <br>
  
- <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> 
+ <!-- <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> -->
 
  
- ___<h2><b>⚡️Technologies & Languages ⚡️</b></h2>___
+<!-- ___<h2><b>⚡️Technologies & Languages ⚡️</b></h2>___ -->
  <!-- <img src="https://readme-typing-svg.demolab.com/?lines=⚡️%20Technologies%20and%20Languages:&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=30"/> -->
- <img src="https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom">
+ <!-- <img src="https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom"> -->
  
  
  <!-- ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,notion,svg,vscode,sublime,atom) -->
 
- <br>
 
- ___<h2><b>🚀 Frameworks & Library🚀 </b></h2>___
+
+<!-- ___<h2><b>🚀 Frameworks & Library🚀 </b></h2>___ -->
  
  <!-- <img src="https://readme-typing-svg.demolab.com/?lines=🚀%20Frameworks%20and%20Library:&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=30"/> -->
- <img src="https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma"> 
+ <!-- <img src="https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma"> -->
  
- <br>
- <br>
+
  
  <!-- ![My Skills](https://skillicons.dev/icons?i=git,nodejs,pug,sass,npm,bootstrap,tailwind,github,htmx,figma) -->
  
- <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> 
-
- <br>
- <br>
+ <!-- <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> -->
 
  <!-- <img width="100%" src="./gif/Skills_Animation_Dark.gif"> -->
 
 </div>
+
+ ## 👨‍💻 About Me
+
+ - I am a Frontend developer who strives for continuous growth.
+ - I work as a Frontend Developer at **Automatic Technology Solutions LLC** IT company.
+ - My main goal is to create intuitive and functional web applications that make people's lives easier through technology.
+ - I actively work on real projects and gain experience.
+ - I always strive to work in a team and improve code quality.
+
+
