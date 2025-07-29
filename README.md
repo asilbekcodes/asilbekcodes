@@ -114,4 +114,8 @@
  - I actively work on real projects and gain experience.
  - I always strive to work in a team and improve code quality.
 
+## 🛠️ Technologies and tools used:
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,react,tailwindcss,typescript,git,github,vscode,vite&perline=8" />
+</p>
