@@ -117,5 +117,18 @@
 ## 🛠️ Technologies and tools used:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,react,tailwindcss,typescript,git,github,vscode,vite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,pug,sass,react,tailwindcss,typescript,bootstrap,git,github,vscode,vite&perline=9" />
 </p>
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://readme-stats.clckblog.space/api?username=asilbekcodes&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=asilbekcodes&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbekcodes&layout=compact&theme=radical" alt="asilbekcodes" />
+</p>
+
+
