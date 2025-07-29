@@ -55,10 +55,6 @@
  <!-- <img alt="line gify" width="100%" src="./gif/line-neon.gif" />  -->
 
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> -->
-
-
- <br>
-
  
   <!-- <img src="https://readme-typing-svg.demolab.com/?lines=How%20to%20contact%20me:&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=30"/> -->
 
@@ -71,13 +67,6 @@
 <!-- ___<h2>💬 Let's Connect 💬</h2>___
 
  ___👇 Click the badges below to connect 👇___ -->
- 
- [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbek_codes) 
- [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aslbek_codes)
- [![gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](https://asilbeksuvonov43@gmail.com)
- [![facebook](https://img.shields.io/badge/facebook-g?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aslbek07)
-
- <br>
  
  <!-- <img alt="line gify" width="100%" src="./gif/line-neon.gif" /> -->
 
@@ -130,5 +119,12 @@
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbekcodes&layout=compact&theme=radical" alt="asilbekcodes" />
 </p>
+
+## 📫 Contact Me
+
+ [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asilbek-suvonov-31131a373)
+ [![gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](https://asilbeksuvonov43@gmail.com)
+ [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aslbekDev_07) 
+ [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_aslbek_07)
 
 
